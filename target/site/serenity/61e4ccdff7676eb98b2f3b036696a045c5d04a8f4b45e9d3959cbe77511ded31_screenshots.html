@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/v4-shims.min.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" type="text/css" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.css">
+<link rel="stylesheet" type="text/css" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.19/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.19/datatables.min.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.19/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.19/datatables.bootstrap4.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">
+                <span class="projecttitle"></span>
+                <span class="projectsubtitle"></span>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="311c4df8d597d7afc63d01e6da75ff571a09cef3d1af5d111024bc89f107bc30.html">Title Of Your Feature</a></span>
+                > <span class="truncate-60"><a
+                    href="61e4ccdff7676eb98b2f3b036696a045c5d04a8f4b45e9d3959cbe77511ded31.html">Buscar un producto aleatorio en JuanRegala exitoso </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 17-06-2021 09:55</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Title Of Your Feature </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></a></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Buscar un producto aleatorio en JuanRegala exitoso
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+    <div class="story-title">
+        <h3>Scenario:</h3>
+        <div class="scenario">Given que me encuentro en la pagina de JuanRegala con la url &lt;Url&gt;<br>When busco un producto aleatorio en la pagina<br>Then podre ver un producto aleatorio en pantalla</div>
+    </div>
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="2e403dc03830ba136dcf5163d821b28f538d6c2c9fc1d501165f5c4e0cee2bbd.png" title=" Example: {Escenario=Buscar un producto aleatorio en JuanRegala exitoso, Url=https://juanregala.com.co/}" width="1366"/>
+                <img src="2e403dc03830ba136dcf5163d821b28f538d6c2c9fc1d501165f5c4e0cee2bbd.png" title=" Given que me encuentro en la pagina de JuanRegala con la url https://juanregala.com.co/" width="1366"/>
+                <img src="bf14b6d99ef40b30ed77af351526067cdf9cbfdbb8326f61eab8b1851b88d4d5.png" title=" When busco un producto aleatorio en la pagina" width="1366"/>
+                <img src="164f667a7c51a2157f2d89208a01de47e25218d8b667231413bb843e1b827c4b.png" title=" Diego buscar producto aleatorio en juan regala" width="1366"/>
+                <img src="164f667a7c51a2157f2d89208a01de47e25218d8b667231413bb843e1b827c4b.png" title=" Diego clicks on Boton para seleccionar la sede o ciudad" width="1366"/>
+                <img src="5633176368a7bb52675dbc08822e6f61178831f83f52f3e3760d8b8ae26bc852.png" title=" Diego clicks on Boton para seleccionar la sede o ciudad (completed)" width="1366"/>
+                <img src="4c85be61a8b58aea6bc77cdb218cfd27349e4472a7733c390e5a6b471abfafef.png" title=" Diego clicks on Boton de la categoria" width="1366"/>
+                <img src="e6a5b30e0e26b2fbbf3e2f2be676da6cbb918fd74d0a0ba2aa552f514efb623a.png" title=" Diego clicks on Boton de la categoria (completed)" width="1366"/>
+                <img src="a0c6a95344c49ea7f471f7a36156f4f7ea1881d1f898753356bff3b42b6d0549.png" title=" Diego clic producto aleatorio" width="1366"/>
+                <img src="c7a0bcea87133f0b5b034c684cb8ed20ea67a00687dc958a1a550fad2dbae04f.png" title=" Diego clic producto aleatorio (completed)" width="1366"/>
+                <img src="841c80436ebafc7b3bf3b1609b3ed676d917333f40024915ca768e936aa75f63.png" title=" Diego buscar producto aleatorio en juan regala (completed)" width="1366"/>
+                <img src="841c80436ebafc7b3bf3b1609b3ed676d917333f40024915ca768e936aa75f63.png" title=" When busco un producto aleatorio en la pagina (completed)" width="1366"/>
+                <img src="3ea7012339d2362263bb6980e01c00f8ebef9f0c273639209bb7e2e18e93ae18.png" title=" Then podre ver un producto aleatorio en pantalla" width="1366"/>
+                <img src="841c80436ebafc7b3bf3b1609b3ed676d917333f40024915ca768e936aa75f63.png" title=" Then descripcion del producto seleccionado should be an element containing 'Compartir Para Ella'" width="1366"/>
+                <img src="71d3e4e7752b4dfb53587e23112706fe1887c9c8f9d4ad08c6164285d7c1175f.png" title=" Then descripcion del producto seleccionado should be an element containing 'Compartir Para Ella' (completed)" width="1366"/>
+                <img src="841c80436ebafc7b3bf3b1609b3ed676d917333f40024915ca768e936aa75f63.png" title=" Then podre ver un producto aleatorio en pantalla (completed)" width="1366"/>
+                <img src="841c80436ebafc7b3bf3b1609b3ed676d917333f40024915ca768e936aa75f63.png" title=" Example: {Escenario=Buscar un producto aleatorio en JuanRegala exitoso, Url=https://juanregala.com.co/} (completed): <span class='success-color'>SUCCESS</span>" width="1366"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.0.80</span>
+</div>
+</body>
+</html>

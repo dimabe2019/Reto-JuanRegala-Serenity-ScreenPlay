@@ -1,0 +1,1061 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" class=""><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Resultados de búsqueda para: 'Carro Bmw'</title>
+<meta name="description" content="">
+<meta name="keywords" content="Juanregala.com">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<link rel="icon" href="https://juanregala.com.co/bogota/skin/frontend/talos/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://juanregala.com.co/bogota/skin/frontend/talos/default/favicon.ico" type="image/x-icon">
+
+    <style>
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 300;
+            font-display: auto;
+            src: local('Poppins Light Italic'), local('Poppins-LightItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 300;
+            font-display: auto;
+            src: local('Poppins Light Italic'), local('Poppins-LightItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 300;
+            font-display: auto;
+            src: local('Poppins Light Italic'), local('Poppins-LightItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 400;
+            font-display: auto;
+            src: local('Poppins Italic'), local('Poppins-Italic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 400;
+            src: local('Poppins Italic'), local('Poppins-Italic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 400;
+            font-display: auto;
+            src: local('Poppins Italic'), local('Poppins-Italic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLucHtA.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 500;
+            font-display: auto;
+            src: local('Poppins Medium Italic'), local('Poppins-MediumItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 500;
+            font-display: auto;
+            src: local('Poppins Medium Italic'), local('Poppins-MediumItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 500;
+            font-display: auto;
+            src: local('Poppins Medium Italic'), local('Poppins-MediumItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 600;
+            font-display: auto;
+            src: local('Poppins SemiBold Italic'), local('Poppins-SemiBoldItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 600;
+            font-display: auto;
+            src: local('Poppins SemiBold Italic'), local('Poppins-SemiBoldItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 600;
+            font-display: auto;
+            src: local('Poppins SemiBold Italic'), local('Poppins-SemiBoldItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 700;
+            font-display: auto;
+            src: local('Poppins Bold Italic'), local('Poppins-BoldItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 700;
+            src: local('Poppins Bold Italic'), local('Poppins-BoldItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: italic;
+            font-weight: 700;
+            font-display: auto;
+            src: local('Poppins Bold Italic'), local('Poppins-BoldItalic'), url(https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 300;
+            font-display: auto;
+            src: local('Poppins Light'), local('Poppins-Light'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 300;
+            font-display: auto;
+            src: local('Poppins Light'), local('Poppins-Light'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 300;
+            font-display: auto;
+            src: local('Poppins Light'), local('Poppins-Light'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-display: auto;
+            src: local('Poppins Regular'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-display: auto;
+            src: local('Poppins Regular'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-display: auto;
+            src: local('Poppins Regular'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-display: auto;
+            src: local('Poppins Medium'), local('Poppins-Medium'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-display: auto;
+            src: local('Poppins Medium'), local('Poppins-Medium'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 500;
+            font-display: auto;
+            src: local('Poppins Medium'), local('Poppins-Medium'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 600;
+            font-display: auto;
+            src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 600;
+            font-display: auto;
+            src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 600;
+            font-display: auto;
+            src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+        /* devanagari */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-display: auto;
+            src: local('Poppins Bold'), local('Poppins-Bold'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2) format('woff2');
+            unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+        }
+        /* latin-ext */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-display: auto;
+            src: local('Poppins Bold'), local('Poppins-Bold'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+        /* latin */
+        @font-face {
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-display: auto;
+            src: local('Poppins Bold'), local('Poppins-Bold'), url(https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+    </style>
+<style type="text/css">
+	        body.layout-full .link-wishlist, body.layout-full .item-wishlist { display: none !important; }body.layout-full .link-compare, body.layout-full .item-compare { display: none !important; }body.layout-full .item-quickview { display: none !important; }</style>
+<link rel="stylesheet" type="text/css" href="https://juanregala.com.co/bogota/media/css_secure/bcac5999f6302b83799e7116b122976b.css">
+<link rel="stylesheet" type="text/css" href="https://juanregala.com.co/bogota/media/css_secure/79125211e1911c796cb98591a2e59e69.css" media="all">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-VRLDZ43M4V&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5GFD22"></script><script type="text/javascript" src="https://juanregala.com.co/bogota/media/js/a18f6e59b46fe786bd1edcdd6df644f5.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/bogota';
+Mage.Cookies.domain   = '.juanregala.com.co';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["CO"];
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+Calendar._DN = ["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"]; // full day names
+Calendar._SDN = ["dom.","lun.","mar.","mi\u00e9.","jue.","vie.","s\u00e1b."]; // short day names
+Calendar._FD = 1; // First day of the week. "0" means display Sunday first, "1" means display Monday first, etc.
+Calendar._MN = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"]; // full month names
+Calendar._SMN = ["ene.","feb.","mar.","abr.","may.","jun.","jul.","ago.","sept.","oct.","nov.","dic."]; // short month names
+Calendar._am = "a. m."; // am/pm
+Calendar._pm = "p. m.";
+
+// tooltips
+Calendar._TT = {};
+Calendar._TT["INFO"] = "Sobre el calendario";
+
+Calendar._TT["ABOUT"] =
+"Selector de fecha/hora DHTML\n" +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"Para la última versión, visitar: http://www.dynarch.com/projects/calendar/\n" +
+"Distribuido según la LGPL de GNU. Para más información véase http://gnu.org/licenses/lgpl.html." +
+"\n\n" +
+"Elección de la fecha:\n" +
+"- Utilice los botones \xab, \xbb para seleccionar el año\n" +
+"- Utilice los botones " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " para seleccionar el mes\n" +
+"- Mantenga pulsado el botón del ratón sobre cualquiera de los botones de arriba para obtener una selección más rápida.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Selección de tiempo:\n" +
+"- Pulse sobre cualquiera de los fragmentos de tiempo para aumentarlo\n" +
+"- o pulse Shift para disminuirlo\n" +
+"- o pulse y arrastre para obtener una selección más rápida.";
+
+Calendar._TT["PREV_YEAR"] = "Año anterior (mantenga presionado para ver el menú)";
+Calendar._TT["PREV_MONTH"] = "Mes anterior (mantenga presionado para ver el menú)";
+Calendar._TT["GO_TODAY"] = "Ir a Hoy";
+Calendar._TT["NEXT_MONTH"] = "Mes siguiente (mantenga presionado para ver menú)";
+Calendar._TT["NEXT_YEAR"] = "Año siguiente (mantenga presionado para ver menú)";
+Calendar._TT["SEL_DATE"] = "Seleccionar fecha";
+Calendar._TT["DRAG_TO_MOVE"] = "Arrastrar para mover";
+Calendar._TT["PART_TODAY"] = ' (' + "hoy" + ')';
+
+// the following is to inform that "%s" is to be the first day of week
+Calendar._TT["DAY_FIRST"] = "Mostrar %s primero";
+
+// This may be locale-dependent. It specifies the week-end days, as an array
+// of comma-separated numbers. The numbers are from 0 to 6: 0 means Sunday, 1
+// means Monday, etc.
+Calendar._TT["WEEKEND"] = "1,2,3,4,5";
+
+Calendar._TT["CLOSE"] = "Cerrar";
+Calendar._TT["TODAY"] = "hoy";
+Calendar._TT["TIME_PART"] = "Pulse (Shift-) o arrastre para modificar el valor";
+
+// date formats
+Calendar._TT["DEF_DATE_FORMAT"] = "%e\/%m\/%Y";
+Calendar._TT["TT_DATE_FORMAT"] = "%e '%ee' %B '%ee' %Y";
+
+Calendar._TT["WK"] = "semana";
+Calendar._TT["TIME"] = "Hora:";
+//]]>
+</script>
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org","@type":"Organization","address":{"@type":"PostalAddress","addressLocality":"Medellin - Colombia","streetAddress":"Cra 65 #49B -21 Boque B Of 202"},"url":"https:\/\/juanregala.com.co\/bogota\/","email":"juan@juanregala.com","name":"JuanRegala.com","logo":"http:\/\/juanregala.com.co\/medellin\/skin\/frontend\/talos\/default\/images\/juanregala_logo.png","telephone":"018000-186-797","sameAs":[["https:\/\/twitter.com\/juanregala","https:\/\/www.facebook.com\/juanregala","https:\/\/plus.google.com\/+JuanregalaRegalosaDomicilio","https:\/\/www.pinterest.com\/juanregala","https:\/\/instagram.com\/juanregala"]]}]</script>
+<link rel="amphtml" href="https://juanregala.com.co/bogota/catalogsearch/result/?q=Carro+Bmw&amp;amp=1"><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"No est\u00e1n permitidas las etiquetas HTML","Please select an option.":"Seleccione una opci\u00f3n.","This is a required field.":"Campo obligatorio.","Please enter a valid number in this field.":"Ingrese un n\u00famero v\u00e1lido en este campo.","The value is not within the specified range.":"El valor no est\u00e1 dentro del rango permitido.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"En este campo s\u00f3lo se pueden escribir n\u00fameros. Evite los espacios en blanco u otros caracteres, como los puntos o las comas, por ejemplo.","Please use letters only (a-z or A-Z) in this field.":"Por favor, use s\u00f3lo letras (a-z o A-Z) en este campo.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Utilice s\u00f3lo letras (a-z), n\u00fameros (0-9) o guiones bajos (_) en este campo. El primer caracter debe ser una letra.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Por favor, utilice solo letras (a-z o A-Z) o n\u00fameros (0-9) solo en este campo. No est\u00e1n permitidos los espacios u otros caracteres.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Por favor, utilice solo letras (a-z o A-Z) o n\u00fameros (0-9) o espacios y # solo en este campo.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Ingrese un n\u00famero de tel\u00e9fono v\u00e1lido. Por ejemplo: (123) 456-7890 o 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Por favor, introduzca un n\u00famero de fax v\u00e1lido. Por ejemplo (123) 456-7890 o 123-456-7890.","Please enter a valid date.":"Ingrese una fecha v\u00e1lida.","The From Date value should be less than or equal to the To Date value.":"El valor Desde la fecha debe ser inferior o igual al valor Hasta la fecha.","Please enter a valid email address. For example johndoe@domain.com.":"Ingrese una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida. Por ejemplo: juanperez@dominio.com.","Please use only visible characters and spaces.":"Por favor, utilice solo caracteres visibles y espacios.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Introduzca 6 o m\u00e1s caracteres. Se ignorar\u00e1n los espacios antes o despu\u00e9s.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Por favor, introduzca 7 o m\u00e1s caracteres. La contrase\u00f1a tiene que contener tanto caracteres num\u00e9ricos como alfab\u00e9ticos.","Please make sure your passwords match.":"Aseg\u00farese de que sus contrase\u00f1as coincidan.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Por favor, introduzca una URL v\u00e1lida. Es necesario el protocolo (http:\/\/, https:\/\/ or ftp:\/\/)","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Por favor, introduzca una URL v\u00e1lida. Por ejemplo, http:\/\/www.example.com o www.example.com","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Por favor, introduzca una Clave de URL v\u00e1lida. Por ejemplo  \"pagina-ejemplo\", \"pagina-ejemplo.html\" o \"otronivel\/pagina-ejemplo\"","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Por favor, introduzca un identificador-XML v\u00e1lido. Por ejemplo, algo_1, bloque5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Ingrese un n\u00famero de seguro social v\u00e1lido. Por ejemplo: 123-45-6789.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Ingrese un c\u00f3digo postal v\u00e1lido. Por ejemplo: 90602 o 90602-1234.","Please enter a valid zip code.":"Ingrese un c\u00f3digo postal v\u00e1lido.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Utilice este formato de fecha: dd\/mm\/aaaa. Por ejemplo, 17\/03\/2006 para el 17 de marzo de 2006.","Please enter a valid $ amount. For example $100.00.":"Ingrese un monto v\u00e1lido en $. Por ejemplo: $100.00.","Please select one of the above options.":"Por favor, selecciona una de las opciones anteriores.","Please select one of the options.":"Seleccione una de las opciones.","Please select State\/Province.":"Por favor, selecciona Estado\/Provincia.","Please enter a number greater than 0 in this field.":"Ingrese un n\u00famero mayor que 0 en este campo.","Please enter a number 0 or greater in this field.":"Por favor, introduzca un n\u00famero 0 o superior en este campo.","Please enter a valid credit card number.":"Ingrese un n\u00famero de tarjeta de cr\u00e9dito v\u00e1lido.","Credit card number does not match credit card type.":"El n\u00famero de tarjeta de cr\u00e9dito no se ajusta al tipo de tarjeta de cr\u00e9dito.","Card type does not match credit card number.":"El tipo de tarjeta no se ajusta al n\u00famero de tarjeta de cr\u00e9dito.","Incorrect credit card expiration date.":"Fecha de caducidad de la tarjeta de cr\u00e9dito incorrecta","Please enter a valid credit card verification number.":"Introduzca un n\u00famero correcto de verificaci\u00f3n de tarjeta de cr\u00e9dito.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Por favor, utilice solamente letras (a-z o A-Z), n\u00fameros (0-9) o guion bajo (_) en este campo, el primer car\u00e1cter debe ser una letra.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Por favor, introduzca una longitud v\u00e1lida de CSS. Por ejemplo, 100px o 77pt o 20em o .5ex o 50%","Text length does not satisfy specified text range.":"La longitud del texto no satisface el rango de texto se\u00f1alado","Please enter a number lower than 100.":"Por favor, introduzca un n\u00famero menor que 100.","Please select a file":"Por favor seleccione un archivo","Please enter issue number or start date for switch\/solo card type.":"Por favor, introduzca un n\u00famero de emisi\u00f3n o fecha de inicio para el tipo de tarjeta switch\/solo.","Please wait, loading...":"Espera, por favor. Cargando....","This date is a required value.":"La fecha es un valor obligatorio.","Please enter a valid day (1-%d).":"Por favor, introduzca un d\u00eda v\u00e1lido (1-%d).","Please enter a valid month (1-12).":"Por favor, introduzca un mes v\u00e1lido (1-12).","Please enter a valid year (1900-%d).":"Por favor, introduzca un a\u00f1o v\u00e1lido (1900-%d).","Please enter a valid full date":"Por favor, introduzca una fecha v\u00e1lida completa","Please enter a valid date between %s and %s":"Por favor, introduzca una fecha v\u00e1lida entre %s y %s","Please enter a valid date equal to or greater than %s":"Por favor, introduzca una fecha v\u00e1lida igual o superior a %s","Please enter a valid date less than or equal to %s":"Por favor, introduzca una fecha v\u00e1lida menor o igual a %s","Complete":"Completo","Add Products":"Agregar productos","Please choose to register or to checkout as a guest":"Por favor, seleccione la opci\u00f3n de registrarse o la de tramitar el pedido como invitado","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Su pedido no puede completarse en este momento ya que no hay m\u00e9todos de env\u00edo disponibles. Realice los cambios necesarios en su direcci\u00f3n de env\u00edo.","Please specify payment method.":"Especifique el m\u00e9todo de pago.","Your order cannot be completed at this time as there is no payment methods available for it.":"Su pedido no se ha podido completar porque no hay ning\u00fan m\u00e9todo de pago disponible.","Add to Cart":"Agregar al Carrito","In Stock":"En stock","Out of Stock":"Agotado"});
+        //]]></script><meta name="google-site-verification" content="TeMV3g_3RbGgpyfuWK7H05rYPmOTAcY4KDp2AHIfYO8">
+<meta name="google-site-verification" content="-YaF8A5UPdmRoNcllTAJtYCAhfrWXMTIU1VHIc62JvY">
+<script async="" data-id="15577" src="https://cdn.widgetwhats.com/script.min.js"></script>
+
+
+
+<style type="text/css">.fancybox-margin{margin-right:17px;}</style><link rel="stylesheet" href="//cdn.widgetwhats.com/assets/css/style.min.css" type="text/css"></head>
+
+<!--[if lt IE 10 ]>
+<script>
+	window.location="/navegador-no-soportado";
+</script>
+<![endif]-->
+
+
+<body class=" catalogsearch-result-index layout-full home_style1">
+
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
+
+
+    <!-- Google Tag Manager -->
+    
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5GFD22" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5GFD22');</script>
+
+    <!-- End Google Tag Manager -->
+<div id="et_theme_wrapper" class="wrapper">
+	<div class="page">
+    			    	<style type="text/css">
+		.header-account div#top_links > ul.links > li.link_1{
+			opacity: 0;
+			pointer-events: none;
+		}
+	</style>
+<div class="header-container">
+	<div class="header">
+		<div class="header-under">
+			<div class="container">
+				<div class="row">
+											<div class="col-lg-2 col-md-3 col-sm-12 col-xs-12">
+							<div class="logo">
+								<a href="https://juanregala.com.co/bogota/" title="Logo JuanRegala.com">
+									<img alt="logo juanregala" title="logo juanregala" id="store-logo" src="https://juanregala.com.co/bogota/skin/frontend/talos/default/images/juanregala-logo.png">
+								</a>
+							</div>
+							<div class="header-icons-mobile hidden-md hidden-lg">
+
+										                        <div class="whatsapp-btn">
+<a href="https://api.whatsapp.com/send?phone=573052249615" class="btn btn-primary">3052249615</a>
+</div>								
+<div class="block-cart header-cart pull-right" id="ajaxcart">
+	
+<div class="block-header-cart">
+    	 <div class="header-cart-title">
+	 	<a href="https://juanregala.com.co/bogota/checkout/cart/">
+		 	<i class="icon-cart-jr"></i>
+			<span class="badge"><i>0</i> <span class="price">$&nbsp;0</span></span>		
+	 	</a>
+	 </div>
+     <div class="header-cart-content">
+	    <!--div class="remain_cart" id="minicart">
+		    <div class="minicartInner"-->
+		    		    		    		        <p class="empty">No tienes artículos en tu carrito de compras.</p>
+		    		    <!--/div>
+	    </div-->
+	</div>
+</div></div>		                        <div class="header-top-bars">
+		                        	<a href="javascript:void(0)"><i class="fa fa-bars"></i></a>
+		                        </div>
+		                        <div class="menu-overlay">
+		                        	<div class="overlay-menu">
+		                        		<button class="btn btn-danger">×</button>
+		                        		<ul class="links">
+                        <li class="link_1 first"><a href="https://juanregala.com.co/bogota/customer/account/" title="Mi cuenta">Mi cuenta</a></li>
+                                <li class="link_2 "><a href="https://juanregala.com.co/bogota/checkout/cart/" title="Mi carrito" class="top-link-cart">Mi carrito</a></li>
+                                <li class="link_3 "><a href="https://juanregala.com.co/bogota/checkout/Multistep/" title="Checkout in One Step" class="top-link-checkout">Checkout in One Step</a></li>
+                                <li class="link_4  last"><a href="https://juanregala.com.co/bogota/customer/account/login/" title="Inicio de sesión">Inicio de sesión</a></li>
+            
+<li><a href="/bogota/regalos-parejas-bogota">PAREJA</a>
+</li><li><a href="/bogota/regalos-amigos-bogota">AMIGOS</a>
+</li><li><a href="/bogota/regalos-familia-bogota">FAMILIA</a>
+</li><li><a href="/bogota/detalles-dia-nino-bogota-2">NIÑOS</a>
+</li><li><a href="/bogota/regalos-oficina-bogota">COMPAÑEROS</a>
+</li><li><a href="/bogota/regalos-corporativos-de-navidad-en-bogota">CORPORATIVOS</a>
+</li></ul>
+		                        	</div>
+		                        </div>
+							</div>
+						</div>
+						<div class="col-lg-10 col-md-9 col-sm-12 col-xs-12 header-extra">
+                            
+                                                        <div class="search-btn-container">
+                            <div class="dropdown dropdown-city-container">
+						  <button class="btn btn-primary dropdown-toggle" type="button" id="dropdown_city" data-toggle="dropdown" aria-expanded="false">
+						  	Bogotá						    <span class="caret"></span>
+						  </button>
+						  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdown_city">
+                                                                                                                                                        <li role="presentation"><a role="menuitem" tabindex="-1" href="/medellin">Medellín</a></li>
+                                                                                              <li role="presentation"><a role="menuitem" tabindex="-1" href="/bogota">Bogotá</a></li>
+                                                                                              <li role="presentation"><a role="menuitem" tabindex="-1" href="/cali">Cali</a></li>
+                                                        </ul>
+						</div>
+							
+<form id="search_mini_form" action="https://juanregala.com.co/bogota/catalogsearch/result/" method="get">
+	<div class="form-search form-search-autocomplete">
+
+        <ul class="search-ul-container">
+            <li id="search_input_li">
+                <input id="search" type="text" name="q" value="Carro Bmw" class="input-text" maxlength="200" autocomplete="off"><div id="search-autocomplete"><div id="searchr-result-containter" style="display: none;"><div id="autocomplete-content"><div id="search-result" style="display: none;"></div></div></div></div>
+
+            </li>
+            <li>
+                <button id="basic-search" class="button search-btn" title="Búsqueda" type="submit"><i class="icon-search-jr"></i></button>
+            </li>
+        </ul>
+
+		<script type="text/javascript">
+			//<![CDATA[
+				var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Búsqueda');
+				//searchForm.initAutocomplete('', 'search_autocomplete');
+				$('basic-search').observe('click',function(event){
+					var searchTerm = $('search').value;
+					searchTerm = searchTerm.strip();
+					if(searchTerm == null || searchTerm == ''){
+						alert("Please enter search term");
+						Event.stop(event);
+						return false;
+					}
+				});
+				$('search').observe('focus',function(){
+					if(navigator.appName == "Microsoft Internet Explorer"){
+						var appVer = navigator.appVersion;
+						if(appVer.indexOf("MSIE 7.0") != -1){
+							$('search').setStyle({"background-color":"#EDF7FD"});
+						}
+					}
+				});
+				$('search').observe('blur',function(){
+					if(navigator.appName == "Microsoft Internet Explorer"){
+						var appVer = navigator.appVersion;
+						if(appVer.indexOf("MSIE 7.0") != -1){
+							$('search').setStyle({"background-color":"#FFFFFF"});
+						}
+					}
+				});
+				if(navigator.appName == "Microsoft Internet Explorer"){
+					$('search').observe('keypress',function(){
+						var searchTerm = $('search').value;
+						searchTerm = searchTerm.strip();
+						if(window.event && window.event.keyCode == '13'){
+							if(document.createEventObject){
+								// dispatch for IE
+								var evt = document.createEventObject();
+								return $('basic-search').fireEvent('onclick', evt);
+							}
+						}
+					});
+				}
+			//]]>
+		</script>
+	</div>
+	<script type="text/javascript">
+	//<![CDATA[
+		var ajaxUrl='https://juanregala.com.co/bogota/autocomplete/search/searchAutocomplete/';
+		var queryDelay = 0.5;
+		var progressImage ='https://juanregala.com.co/bogota/skin/frontend/talos/default/images/ajax-loader.gif';
+		var minCharacters = '3';
+
+		document.observe('dom:loaded',function(){
+			//require(["autocomplete"], function(){
+				$('search').insert({
+					after:'<div id="search-autocomplete"><div id="searchr-result-containter"><div id="autocomplete-content"><div id="search-result"></div></div></div></div>'
+				});
+				$('searchr-result-containter').hide();
+				var acLayout = new Autocomplete();
+				acLayout.initAutocomplete(ajaxUrl, 'search-result');
+			//});
+		})
+	//]]>
+</script>
+</form>
+						</div>
+						<div class="header-account">
+							<div class="quick-access" id="top_links">
+								<ul class="links">
+                        <li class="link_1 first"><a href="https://juanregala.com.co/bogota/customer/account/" title="Mi cuenta">Mi cuenta</a></li>
+                                <li class="link_2 "><a href="https://juanregala.com.co/bogota/checkout/cart/" title="Mi carrito" class="top-link-cart">Mi carrito</a></li>
+                                <li class="link_3 "><a href="https://juanregala.com.co/bogota/checkout/Multistep/" title="Checkout in One Step" class="top-link-checkout">Checkout in One Step</a></li>
+                                <li class="link_4  last"><a href="https://juanregala.com.co/bogota/customer/account/login/" title="Inicio de sesión">Inicio de sesión</a></li>
+            </ul>
+							</div>
+						</div>
+						
+<div class="block-cart header-cart pull-right" id="ajaxcart">
+	
+<div class="block-header-cart">
+    	 <div class="header-cart-title">
+	 	<a href="https://juanregala.com.co/bogota/checkout/cart/">
+		 	<i class="icon-cart-jr"></i>
+			<span class="badge"><i>0</i> <span class="price">$&nbsp;0</span></span>		
+	 	</a>
+	 </div>
+     <div class="header-cart-content">
+	    <!--div class="remain_cart" id="minicart">
+		    <div class="minicartInner"-->
+		    		    		    		        <p class="empty">No tienes artículos en tu carrito de compras.</p>
+		    		    <!--/div>
+	    </div-->
+	</div>
+</div></div>                        <div class="whatsapp-btn">
+<a href="https://api.whatsapp.com/send?phone=573052249615" class="btn btn-primary">3052249615</a>
+</div>						</div>
+															</div>
+			</div>
+		</div>
+					<div class="header-fancy">
+<ul class="list-inline text-center">
+<li><span style="font-size: x-large;">Entregamos todos los días para que sorprendas a los que más quieres.</span></li>
+</ul>
+</div>			<div class="header-menu">
+				<div class="container">
+																		<div class="menu-nav-ver">
+	<div class="menu-title-ver">
+		<i class="icon-bars-jr"></i>
+		<span class="menu-title-span">Categorías</span>
+		<span class="caret"></span>
+	</div>
+	<ul id="megamenu_list_60cb5bb5c2109" class="menu-nav-list menu-full">
+	<li class="parent level-1"><a href="/bogota/desayunos-sorpresa-bogota"><span class="menu-icon"><i class="icon-breakfast-jr"></i></span><span class="menu-title">Desayunos Sorpresa</span></a><div class="dropdown-menu"><ul><li class="parent mcol-1 level-2"><div class="dropdown-menu"><div class="dropdown-content"><div class="content-menu">
+	<ul>
+		<li>
+			<a href="/bogota/desayunos-sorpresa-bogota">Desayunos Sorpresa en Bogotá <i class="fa fa-angle-right"></i></a>
+			<p>Desayunos Especiales, Medias Mañanas, Medias Tardes</p>
+		</li>
+	</ul>
+	<div class="label-bottom">
+		<p class="menu-lb-md">SORPRENDE</p>
+		<p class="menu-lb-md">EN LAS</p>
+		<p class="menu-lb-lg">MAÑANAS</p>
+		<p class="lb-normal">con un regalo especial a domicilio</p>
+	</div>
+	<a href="/bogota/desayunos-sorpresa-bogota" class="img-bg-link" title="Desayunos Sorpresa en Bogotá"></a>
+</div></div></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/anchetas-dulces-bogota"><span class="menu-icon"><i class="icon-ancheta-jr"></i></span><span class="menu-title">Anchetas</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><div class="dropdown-menu"><div class="dropdown-content"><div class="content-menu">
+	<ul>
+		<li>
+			<a href="/bogota/anchetas-dulces-bogota">Anchetas de Dulces en Bogotá <i class="fa fa-angle-right"></i></a>
+			<p>Chocolates americanos, peluches y fascinante decoración</p>
+		</li>
+		<li>
+			<a href="/bogota/anchetas-navidenas-bogota">Anchetas Navideñas en Bogotá <i class="fa fa-angle-right"></i></a>
+			<p>Los más selectos productos decembrinos en un solo lugar</p>
+		</li>
+	</ul>
+	<div class="label-bottom">
+		<p class="menu-lb-md">ENDULZA</p>
+		<p class="menu-lb-md">LOS MEJORES</p>
+		<p class="menu-lb-lg">MOMENTOS</p>
+		<p class="lb-normal">con nuestras anchetas a domicilio</p>
+	</div>
+        <a href="/bogota/anchetas-dulces-bogota" class="img-bg-link ancheta-bg" title="Anchetas de Dulces en Bogotá"></a>
+</div></div></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/ramos-flores-bogota"><span class="menu-icon"><i class=" icon-flower-jr"></i></span><span class="menu-title">Flores</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><div class="dropdown-menu"><div class="dropdown-content"><div class="content-menu">
+	<ul>
+		<li>
+			<a href="/bogota/ramos-flores-bogota">Ramos de Flores en Bogotá <i class="fa fa-angle-right"></i></a>
+			<p>Rosas, ramos tropicales, arreglos alegres y siempre frescos</p>
+		</li>
+	</ul>
+	<div class="label-bottom">
+		<p class="menu-lb-md">ALEGRA</p>
+		<p class="menu-lb-md">UN DÍA</p>
+		<p class="menu-lb-lg">ESPECIAL</p>
+		<p class="lb-normal">con nuestros ramos de flores a domicilio</p>
+	</div>
+
+	<a href="/bogota/ramos-flores-bogota" class="img-bg-link flowers-bg" title="Ramos de Flores en Bogotá"></a>
+</div></div></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/chocolates-domicilio-bogota"><span class="menu-icon"><i class="icon-chocolate-jr"></i></span><span class="menu-title">Chocolates</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><div class="dropdown-menu"><div class="dropdown-content"><div class="content-menu">
+	<ul>
+		<li>
+			<a href="/bogota/chocolates-domicilio-bogota">Chocolates a Domicilio en Bogotá <i class="fa fa-angle-right"></i></a>
+			<p>Deliciosos textos y figuras personalizables</p>
+		</li>
+	</ul>
+	<div class="label-bottom">
+		<p class="menu-lb-md">DELEITA A</p>
+		<p class="menu-lb-md">ESA PERSONA</p>
+		<p class="menu-lb-lg">IMPORTANTE</p>
+		<p class="lb-normal">con nuestros ricos chocolates</p>
+	</div>
+
+	<a href="/bogota/chocolates-domicilio-bogota" class="img-bg-link chocolates-bg" title="Chocolates a Domicilio en Bogotá"></a>
+</div></div></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/arreglos-frutales-bogota"><span class="menu-icon"><i class=" icon-fruit-jr"></i></span><span class="menu-title">Arreglos Frutales</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><div class="dropdown-menu"><div class="dropdown-content"><div class="content-menu">
+	<ul>
+		<li>
+			<a href="/bogota/arreglos-frutales-bogota">Arreglos Frutales en Bogotá <i class="fa fa-angle-right"></i></a>
+			<p>Dulces, sanos y originales ramos de frutas</p>
+		</li>
+	</ul>
+	<div class="label-bottom">
+		<p class="menu-lb-md">REGALA</p>
+		<p class="menu-lb-md">UNA VERDADERA</p>
+		<p class="menu-lb-lg">EXPERIENCIA</p>
+		<p class="lb-normal">con este saludable detalle</p>
+	</div>
+
+	<a href="/bogota/arreglos-frutales-bogota" class="img-bg-link fruits-bg" title="Arreglos Frutales en Bogotá"></a>
+</div></div></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/regalos-cumpleanos-bogota"><span class="menu-icon"><i class="icon-birthday-jr"></i></span><span class="menu-title">Regalos de Cumpleaños</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><div class="dropdown-menu"><div class="dropdown-content"><div class="content-menu">
+	<ul>
+		<li>
+			<a href="/bogota/regalos-cumpleanos-bogota">Regalos de Cumpleaños en Bogotá <i class="fa fa-angle-right"></i></a>
+			<p>Los mejores regalos originales en un solo lugar</p>
+		</li>
+	</ul>
+	<div class="label-bottom">
+		<p class="menu-lb-md">COMPARTE</p>
+		<p class="menu-lb-md">UN DÍA</p>
+		<p class="menu-lb-lg">ESPECIAL</p>
+		<p class="lb-normal">con nuestros detalles personalizados</p>
+	</div>
+
+	<a href="/bogota/regalos-cumpleanos-bogota" class="img-bg-link birthday-bg" title="Regalos de Cumpleaños en Bogotá"></a>
+</div></div></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/peluches-bogota"><span class="menu-icon"><i class="icon-bear-jr"></i></span><span class="menu-title">Peluches Y Babuchas</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><a href="/bogota/peluches-bogota"><span class="menu-title">Peluches Y Babuchas</span></a><div class="dropdown-menu"><ul><li class="category-128 mcol-1 level-3"><a href="https://juanregala.com.co/bogota/peluches-bogota"><span class="menu-title">Peluches en Bogotá</span></a></li><li class="category-173 mcol-1 level-3"><a href="https://juanregala.com.co/bogota/babuchas-bogota-domicilio"><span class="menu-title">Babuchas en Bogotá</span></a></li></ul></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/regalos-novio-bogota"><span class="menu-icon"><i class="icon-heart-jr"></i></span><span class="menu-title">Regalos Románticos</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><a href="/bogota/regalos-novio-bogota"><span class="menu-title">Regalos Románticos</span></a><div class="dropdown-menu"><ul><li class="category-129 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-hombre-bogota"><span class="menu-title">Regalos para Novio en Bogotá</span></a></li><li class="category-130 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-novia-bogota"><span class="menu-title">Regalos para Novia en Bogotá</span></a></li></ul></div></li></ul></div></li><li class="parent level-1"><a href="/bogota/regalos-amor-amistad-bogota"><span class="menu-icon"><i class="icon-giftbox-jr"></i></span><span class="menu-title">Ocasiones</span></a><div class="dropdown-menu"><ul><li class="parent mcol-12 level-2"><a href="/bogota/regalos-amor-amistad-bogota"><span class="menu-title">Ocasiones</span></a><div class="dropdown-menu"><ul><li class="category-124 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-amor-amistad-bogota"><span class="menu-title">Regalos de Amor y Amistad en Bogotá</span></a></li><li class="category-117 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-cumpleanos-bogota"><span class="menu-title">Regalos de Cumpleaños en Bogotá</span></a></li><li class="category-143 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-dia-madre-bogota"><span class="menu-title">Regalos para el Día de la Madre en Bogotá</span></a></li><li class="category-123 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-papa-bogota"><span class="menu-title">Regalos para Papá en Bogotá</span></a></li><li class="category-142 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-dia-mujer-bogota"><span class="menu-title">Regalos Día de la Mujer en Bogotá</span></a></li><li class="category-120 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-san-valentin-bogota"><span class="menu-title">Regalos para San Valentín en Bogotá</span></a></li><li class="category-118 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-aniversario-bogota"><span class="menu-title">Regalos de Aniversario en Bogotá</span></a></li><li class="category-119 mcol-12 level-3"><a href="https://juanregala.com.co/bogota/regalos-bebe-bogota"><span class="menu-title">Regalos para Bebé en Bogotá</span></a></li></ul></div></li></ul></div></li><li class="category-129 level-1 first-off"><a href="https://juanregala.com.co/bogota/regalos-hombre-bogota"><span class="menu-icon"><i class="icon-man-jr"></i></span><span class="menu-title">Regalos para hombre</span></a></li>	</ul>	
+</div>
+
+<script>
+var $menu = jQuery("#megamenu_list_60cb5bb5c2109");
+
+// jQuery-menu-aim: <meaningful part of the example>
+// Hook up events to be fired on menu row activation.
+if($menu.menuAim !== undefined){
+	$menu.menuAim({
+		activate: activateSubmenu,
+		deactivate: deactivateSubmenu,
+		exitMenu: exitMenuFunction
+	});	
+}
+
+// jQuery-menu-aim: </meaningful part of the example>
+
+// jQuery-menu-aim: the following JS is used to show and hide the submenu
+// contents. Again, this can be done in any number of ways. jQuery-menu-aim
+// doesn't care how you do this, it just fires the activate and deactivate
+// events at the right times so you know when to show and hide your submenus.
+function activateSubmenu(row) {
+	var $row = jQuery(row),
+	$submenu = jQuery($row.children("div.dropdown-menu")[0]);
+
+	if($submenu.length > 0){
+		$row.addClass("active-row");
+	}
+
+	// Show the submenu
+	$submenu.css({
+		display: "block",
+		visibility: "visible"
+	});
+}
+
+function deactivateSubmenu(row) {
+	var $row = jQuery(row),
+	$submenu = jQuery($row.children("div.dropdown-menu")[0]);
+	$row.removeClass("active-row");
+	// Hide the submenu and remove the row's highlighted look
+	$submenu.css({
+		display: "none",
+		visibility: "hidden"
+	});
+}
+
+function exitMenuFunction(menu) {
+	  return true;
+}
+
+</script>																<div class="menu-nav hidden-sm hidden-xs">
+						<div class="meganav-container">
+<ul id="meganav">
+<li><a href="/bogota/regalos-parejas-bogota">PAREJA</a>
+</li><li><a href="/bogota/regalos-amigos-bogota">AMIGOS</a>
+</li><li><a href="/bogota/regalos-familia-bogota">FAMILIA</a>
+</li><li><a href="/bogota/detalles-dia-nino-bogota-2">NIÑOS</a>
+</li><li><a href="/bogota/regalos-oficina-bogota">COMPAÑEROS</a>
+</li><li><a href="/bogota/regalos-corporativos-de-navidad-en-bogota">CORPORATIVOS</a>
+</li></ul>
+</div>											</div>
+									</div>
+			</div>
+			</div>
+</div>
+							<div class="grid-full breadcrumbs">
+		  <div class="container">
+			<ul>
+									<li class="home">
+																				<span typeof="v:Breadcrumb">
+								<a href="https://juanregala.com.co/bogota/" title="Ir a la página de inicio" rel="v:url" property="v:title">Inicio</a>
+							</span>	
+																	
+													<i class="arrow-breadcrumbs"></i>
+											</li>
+									<li class="search">
+																					<strong>Resultados de búsqueda para: 'Carro Bmw'</strong>
+																								
+											</li>
+							</ul>
+		  </div>
+		</div>
+			<div class="main-container col2-left-layout">
+			<div class="main">
+				<div class="container">
+					<div class="row">
+						<div class="col-main col-lg-9 col-md-9 col-sm-8 col-xs-12 main-rev-pull">
+														<div class="page-title">
+    <h1>Resultados de búsqueda para 'Carro Bmw'</h1>
+</div>
+<p class="note-msg">
+    La búsqueda no da ningún resultado.    </p>
+						</div>
+						<div class="col-left sidebar col-lg-3 col-md-3 col-sm-4 col-xs-12">
+							<div class="block block-list block-compare" id="compare_sidebar">
+    <div class="block-title">
+        <strong><span>Comparar                            <!--small></small-->
+                    </span></strong>
+    </div>
+    <div class="block-content">
+            <p class="empty">No tiene artículos para comparar.</p>
+        </div>
+</div>
+						</div>
+					</div>
+				</div>
+				<div class="block block-gtouch">
+<div class="block-title block-title-center"><strong> <span>Ponte en contacto</span> </strong></div>
+<div class="block-content">
+<div class="container">
+<div class="row gtouch-row">
+<div class="phone col-md-6">
+<div class="contact-inner-block">
+<div class="first">
+<h3 class="strong">Llámanos en Medellín</h3>
+<p>57-3052249615</p>
+<p>&nbsp;</p>
+</div>
+<div>
+<h2 class="strong">Bogotá y resto del país</h2>
+<p>57-3052249615 (What´s App)</p>
+</div>
+</div>
+</div>
+<div class="oh col-md-6">
+<div class="contact-inner-block">
+<h3 class="strong">Horario de atención al cliente</h3>
+<div class="first">
+<p>Lunes - Viernes:</p>
+<p>7:30 am - 8 pm</p>
+</div>
+<div>
+<p>Sábados y Domingos</p>
+<p>8:00 am - 2:00 pm</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>				
+<div class="block block-subscribe">
+    <div class="container">
+    <form action="https://juanregala.com.co/bogota/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+        	
+            
+            
+	    	<div class="row">
+                                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                 <h3>Suscríbete a nuestro boletín informativo</h3>
+        <p>Recibe nuestras ofertas exclusivas y entérate de nuevos productos</p>
+
+
+                                       
+                                       <div class="input-box gender-box" style="width:auto;">
+                                        <label for="gender" class="lbl-gender">Género</label>
+                                          <label class="radio-inline gender-m">
+                                          <input class="validate-one-required-by-name" type="radio" name="gender" id="gender1" value="1" checked="checked"><img src="/skin/frontend/talos/default/images/icons/male.png"></label>
+                                          <label class="radio-inline gender-f">
+                                          <input class="validate-one-required-by-name" type="radio" name="gender" id="gender2" value="2"><img src="/skin/frontend/talos/default/images/icons/female.png"></label>
+                                       </div>
+                    
+                </div>
+                                                                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <label for="firstname" class="required"><em>*</em>Nombre:</label><br>
+                    <div class="input-box">
+                        <input type="text" name="firstname" id="firstname" class="input-text required-entry" pattern="[A-Za-z\s]+" title="Por favor introduce un nombre correcto" required="">
+                    </div>
+                </div>
+                                                                	    		<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+					 <div class="input-box text-right">
+						<input type="text" name="email" id="email" placeholder="Correo electrónico" class="input-text required-entry validate-email"><button id="btn-submit-newsletter" type="submit" title="Suscribirse" class="btn btn-primary"><span><span>Suscribirse</span></span></button>
+		            </div>
+		        </div>
+			</div>
+			
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+<div class="bgtwo-color"></div>
+</div>
+			</div>
+		</div>
+    			    <div class="footer-container">
+    <div class="footer">	
+		<div class="footer-top">
+			<div class="container">
+				<div class="row">				
+					<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 footer-about">
+												<img src="/skin/frontend/talos/default/images/icons/logo.png">
+                              <h4>Juanregala.com.co reúne en un solo lugar los mejores regalos para hombres y mujeres en Colombia.</h4>
+                              <ul class="social-ul">
+                                       <li><a class="symbol" href="https://www.facebook.com/juanregala" target="_blank" title="facebook"><i class="icon-facebook-jr"></i></a></li>
+                                       <li><a class="symbol" href="https://twitter.com/juanregala" target="_blank" title="twitter"><i class="icon-twitter-jr"></i></a></li>
+                                       <li><a class="symbol" href="https://www.youtube.com/user/JuanRegala" target="_blank" title="youtube"><i class="icon-youtube-jr"></i></a></li>
+                                       <li><a class="symbol" href="https://instagram.com/juanregala" target="_blank" title="instagram"><i class="icon-instagram-jr"></i></a></li>
+                                       <li><a class="symbol" href="https://plus.google.com/+JuanregalaRegalosaDomicilio/posts" target="_blank" title="Google Plus"><i class="icon-gplus-jr"></i></a></li>
+                                    </ul>					</div>						
+					<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 footer-top-left">
+						<div class="row">
+							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+<div class="block-title-footer">Nosotros</div>
+<ul class="block-content-footer">
+<li><a href="https://juanregala.com.co/bogota/nuestra-empresa">Nuestra empresa</a></li>
+</ul>
+</div>							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+<div class="block-title-footer">Soporte</div>
+<ul class="block-content-footer">
+<li><a href="https://juanregala.com.co/bogota/contactenos">Contáctenos</a></li>
+<li><a href="https://juanregala.com.co/bogota/preguntas-frecuentes">Preguntas frecuentes</a></li>
+<li><a href="http://juanregala.com.co/faq-pagos-electronicos">Preguntas frecuentes Place to Pay</a></li>
+</ul>
+</div>							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+<div class="block-title-footer">Legal</div>
+<ul class="block-content-footer">
+<li><a href="https://juanregala.com.co/bogota/terminos-condiciones">Términos y condiciones</a></li>
+<li><a href="https://juanregala.com.co/bogota/politica-privacidad">Política de privacidad</a></li>
+</ul>
+</div>							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 block-themefeature">
+<div class="block-title-footer">Quienes nos apoyan</div>
+<ul class="block-content-footer">
+<li><a target="_blank" href="http://www.eafit.edu.co/sitionoticias/2016/juanregalacom-una-idea-pionera-en-el-comercio-electronico-colombiano">Universidad EAFIT</a></li>
+</ul>
+</div>						</div>						
+					</div>	
+				</div>
+			</div>
+			<div class="footer-info">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							 <span class="footer-phone">Llámanos al 57-3052249615</span>
+                                 <span> | </span>
+                                 <span class="footer-email"><a href="mailto:juan@juanregala.com">juan@juanregala.com</a></span>							</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-payment-social text-center">
+				<div class="container">
+					                           <div class="row">
+                              <div class="col-lg-12">
+                                 <ul class="list-inline">
+                                    <li><img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/col-pay.png"></li>
+                                    <li><img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/efty.png"></li>
+                                    <li><img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/ae.png"></li>
+                                    <li><img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/visa.png"></li>
+                                    <li><img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/master-card.png"></li>
+                                    <li><img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/place-topay.png"></li>
+                                    <li><img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/mecafee.png"></li>
+                                 </ul>
+                              </div>
+                           </div>
+                           <div class="row">
+                              <div class="col-lg-12">
+                                 <div class="copyright">
+                                    Made with <img class="lazyload" data-src="/skin/frontend/talos/default/images/icons/heart.png"> in Colombia! copyright 2019 All Rights Reserved.
+                                 </div>
+                              </div>
+                           </div>									</div>
+			</div>
+		</div>
+		
+    </div>
+</div>
+
+<a id="et_backontop" class="fa-angle-up" href="#" title="Back to top" style="display: none;"></a>
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		$("#et_backontop").hide();
+		$(function () {
+			var wh = $(window).height();
+			var whtml =  $(document).height();
+			$(window).scroll(function () {
+				if ($(this).scrollTop() > whtml/10) {
+					$('#et_backontop').fadeIn();
+				} else {
+					$('#et_backontop').fadeOut();
+				}
+			});
+			$('#et_backontop').click(function () {
+				$('body,html').animate({
+					scrollTop: 0
+				}, 800);
+				return false;
+			});
+		});
+	});
+    jQuery("img.lazyload").lazyload();
+
+     /*jQuery(document).ready(
+        function(){
+            var subId = "btn-cart-";
+            jQuery(".button.btn-cart").removeClass("disabled");
+            var buttons = jQuery(".button.btn-cart");
+            var pIds = [];
+            for(var index = 0; index < buttons.length; index ++){
+                var clickAction = jQuery(buttons[index]).attr("onclick");
+                if(clickAction !== undefined && clickAction !== null){
+                    var c = clickAction.split("/product/");
+                    if(c !== undefined && c !== null){
+                        var f = c[1].split("/");
+                        jQuery(buttons[index]).attr("id", subId + f[0]);
+                        pIds.push(f[0]);
+                    }
+                }
+            }
+
+            jQuery.ajax({
+                method: "POST",
+                url: '',
+                data: jQuery.param({pIds: pIds}),
+                contentType: "application/x-www-form-urlencoded; charset=UTF-8"
+            })
+                .done(function(response) {
+                    if(response.disabled_products.length > 1){
+                        for(var index = 0; index < response.disabled_products.length; index ++){
+                            jQuery("#"+subId+response.disabled_products[index]).addClass("disabled");
+                        }
+                    }
+                });
+        }
+    );*/
+</script>
+
+						
+
+<script type="text/javascript">
+if (!('ETA_Options' in window)) {
+	window.ETA_Options = {
+		is_ajax_compare_enabled:   false,
+        is_ajax_checkout_enabled:  true,
+        is_ajax_wishlist_enabled:  false,
+        is_ajax_quickview_enabled: false,
+        
+        dim: {
+        	loading: {width: '260px'},
+        	confirm: {width: '320px'},
+        	options: {width: '320px'},
+        	iframe: {width: '800px'}        	
+        }
+	};
+}
+</script>
+<div id="ajax-loading" class="ajax-loading">
+    <div class="dialog">
+        <div class="content">
+            <div class="img-loader text-center">
+                <img src="https://juanregala.com.co/bogota/skin/frontend/talos/default/images/loader.gif" alt="Cargando..." title="Cargando...">
+                <!--div></div-->
+            </div>
+        </div>
+    </div>
+</div>
+<div role="dialog" tabindex="-1" id="ajax-messagebox" class="ajax-modal">
+	<div class="dialog">
+		<div class="content">
+			<div class="body">
+				<div class="iframe"></div>
+				<div class="message"></div>
+				<div class="options"></div>
+				<div class="actions"></div>
+    		</div>
+		</div>
+		<a class="xclose" title="Close" href="javascript:hideModal();void(0);"><span class="times">×</span><span class="sr-only">Cerrar</span></a>
+	</div>
+</div>
+	</div>
+</div>
+
+
+<script type="text/javascript" id="">(function(){var a=window._fbq||(window._fbq=[]);if(!a.loaded){var b=document.createElement("script");b.async=!0;b.src="//connect.facebook.net/en_US/fbds.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);a.loaded=!0}a.push(["addPixelId","1639353432970501"])})();window._fbq=window._fbq||[];window._fbq.push(["track","PixelInitialized",{}]);</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1639353432970501&amp;ev=PixelInitialized"></noscript><div id="okewa" class="okewa-style_3  okewa-right   branded">  <div class="okewa-pulse_3" style="border-color:#0dc152;"></div>   <div id="okewa-floating_cta" class="ok_animated ok_bounceInUp" style="background:#0dc152; z-index: 999;">    <span class="okewa-fc_text">Resolvemos tus dudas por Whatsapp</span>    <img class="okewa-fc_icon" src="//cdn.widgetwhats.com/assets/img/icon/icon-1.png" alt="">  </div>  <div id="okewa-floating_popup" class="ok_animated" style="z-index: 999;">    <div class="okewa-multiple_cs">      <div class="okewa-header" style="background: #0dc152;">        <img class="okewa-close" src="//cdn.widgetwhats.com/assets/img/close.png" alt="close"><div class="okewa-avatar" style="border-color: #0dc152"><img src="https://img.widgetwhats.com/wp-content/uploads/LOGO-CHAT-JR-1.png" alt="Agent"></div>        <p class="okewa-intro">¡Hola! Tenemos Servicio de Chat de 7 AM a 8 PM (Lun-Vie). 8 AM a 2 PM (Sab-Dom-Festivos)</p>      </div>      <div class="okewa-chat"><div class="list-cs_1" href="#cs_1" data-no="573052249615" data-pixel="">  <div class="okewa-avatar"><img src="https://img.widgetwhats.com/wp-content/uploads/LOGO-CHAT-JR-1.png" alt="Agent avatar"></div>  <div class="okewa-cs_profile">    <p class="okewa-cs_position"></p>    <h3 class="okewa-cs_name">Servicio al Cliente JuanRegala</h3>    <small class="okewa-cs_status">Online</small>  </div></div></div>    </div>    <div id="cs_1">  <div class="okewa-header" style="background:#0dc152;">    <img class="okewa-close" src="//cdn.widgetwhats.com/assets/img/close.png" alt="close">    <div class="okewa-avatar"><img src="https://img.widgetwhats.com/wp-content/uploads/LOGO-CHAT-JR-1.png" alt=""></div>    <p class="okewa-intro"><strong>Servicio al Cliente JuanRegala</strong></p>  </div>  <div class="okewa-chat">    <span class="okewa-chat_opening">¡Hola! En un momento te atenderemos. <small class="okewa-timestamp">00.00</small>     <img src="//cdn.widgetwhats.com/assets/img/tick.png" alt="tick"></span>  </div>    <div class="okewa-input">    <input class="okewa-input_content" data-no="573052249615" data-pixel="" placeholder="Reply to Servicio al Cliente JuanRegala">    <img class="okewa-input_icon" src="//cdn.widgetwhats.com/assets/img/send.png" alt="Send">  </div></div><a href="https://widgetwhats.com/powered/?site=Resultados%20de%20b%C3%BAsqueda%20para%3A%20'Carro%20Bmw'&amp;url=https%3A%2F%2Fjuanregala.com.co%2Fbogota%2Fcatalogsearch%2Fresult%2F%3Fq%3DCarro%2BBmw" target="_blank">Powered by ⚡ <strong>WidgetWhats</strong></a>  </div></div></body></html>

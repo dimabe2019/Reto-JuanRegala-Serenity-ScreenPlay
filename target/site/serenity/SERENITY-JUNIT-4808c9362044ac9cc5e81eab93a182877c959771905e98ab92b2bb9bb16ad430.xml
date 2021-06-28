@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Title of your feature" skipped="0" tests="2" time="241.13" timestamp="2021-06-17 10:07:12"><testcase name="busca el producto exitoso en el buscador de JuanRegala"/><testcase name="busca el producto fallido en el buscador de JuanRegala"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+tasks.BuscarProductoEnJuanRegala.performAs(BuscarProductoEnJuanRegala.java:22)&#13;
+stepDefinitions.JuanRegalaExitoFailStepDefinitions.ingresaElProductoFallidoEnElBuscador(JuanRegalaExitoFailStepDefinitions.java:37)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
